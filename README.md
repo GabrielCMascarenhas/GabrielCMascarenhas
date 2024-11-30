@@ -1,5 +1,5 @@
 <!-- Cabeçalho -->
-![header](https://github.com/user-attachments/assets/3c2da2f3-1922-42ba-be74-918a38f7c0df)
+![header](https://github.com/user-attachments/assets/7ceaf075-c4d1-4e22-8a92-a370129ae18b)
 
 <!-- Apresentação -->
 <p align="center">Eu ❤️ Aprender como as Coisas Funcionam por Dentro<br><br>Sou estudante de Ciência da Computação com grande interesse em cibersegurança, especialmente na área defensiva. Meu objetivo é proteger sistemas e aplicações, tornando-os seguros contra ameaças. Atualmente, estou me aprofundando em programação Java e explorando o desenvolvimento back-end, combinando esses conhecimentos para criar soluções robustas e eficientes.</p>
