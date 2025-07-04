@@ -29,6 +29,6 @@
 ## Contate-me:
 <div align="left"> 
   <a href="mailto:contatogabrielcmascarenhas@gmail.com"><img src="https://img.shields.io/badge/Gmail-456e56?style=for-the-badge&logo=Gmail&logoColor=ebcfb2&labelColor=222f36&color=e07a5f"alt="Gmail Profile"></a>
-  <a href="https://www.linkedin.com/in/perfil-gabriel"><img src="https://img.shields.io/badge/Linkedin-456e56?style=for-the-badge&logo=LinkedIn&logoColor=ebcfb2&labelColor=222f36&color=e07a5f" alt="LinkedIn Profile"></a>
+  <a href="www.linkedin.com/in/gabrielcmascarenhas"><img src="https://img.shields.io/badge/Linkedin-456e56?style=for-the-badge&logo=LinkedIn&logoColor=ebcfb2&labelColor=222f36&color=e07a5f" alt="LinkedIn Profile"></a>
   <a href="https://instagram.com/gmascarenhas8"><img src="https://img.shields.io/badge/Instagram-456e56?style=for-the-badge&logo=Instagram&logoColor=ebcfb2&labelColor=222f36&color=e07a5f" alt="Instagram Profile"></a> 
 </div>
