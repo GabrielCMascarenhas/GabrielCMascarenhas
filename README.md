@@ -5,8 +5,6 @@
 ## Portfolio:
 - [ Portfolio ]()
 
-<br>
-
 <!-- Tech Stack -->
 ## Tech Stack:
 
