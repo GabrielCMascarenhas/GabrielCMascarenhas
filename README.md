@@ -5,6 +5,8 @@
 ## Portfolio:
 - [ Portfolio ]()
 
+<br>
+
 <!-- Tech Stack -->
 ## Tech Stack:
 
@@ -15,7 +17,11 @@
 ![Java](https://img.shields.io/badge/Java-222f36?style=for-the-badge&labelColor=456e56)
 ![Python](https://img.shields.io/badge/Python-222f36?style=for-the-badge&labelColor=14964e)
 
+<br>
+
 **Cybersegurança & Infra:**
+
+<br>
 
 **Banco de Dados:**
 
