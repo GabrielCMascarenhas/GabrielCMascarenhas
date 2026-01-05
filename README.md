@@ -1,38 +1,26 @@
-<!-- Cabeçalho -->
-<!-- ![header](https://github.com/user-attachments/assets/9d486c95-c89c-483d-becd-e435a7223099) -->
-
 <!-- Apresentação -->
-<p align="center">Eu ❤️ Aprender como as Coisas Funcionam por Dentro<br><br>Sou estudante de Ciência da Computação com grande interesse em cibersegurança, especialmente na área defensiva. Meu objetivo é proteger sistemas e aplicações, tornando-os seguros contra ameaças. Atualmente, estou me aprofundando em programação Java e explorando o desenvolvimento back-end, combinando esses conhecimentos para criar soluções robustas e eficientes.</p>
-
-<!-- Minhas Estatísticas -->
-## Minhas Estatísticas:
-<div align="center">
-  <img width="54%" src="https://github-readme-stats.vercel.app/api?username=GabrielCMascarenhas&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=calm&locale=en&hide_border=false&order=1" height="230" alt="stats graph"/>
-  <img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs?username=GabrielCMascarenhas&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=calm&hide_border=false&order=2" height="230" alt="languages graph"/>
-</div>
+<p align="center">Eu ❤️ Aprender como as Coisas Funcionam por dentro<br><br>Sou estudante de Ciência da Computação com grande interesse em cibersegurança, especialmente na área defensiva. Meu objetivo é proteger sistemas e aplicações, tornando-os seguros contra ameaças.</p>
 
 <!-- Portfolio -->
 ## Portfolio:
-- <a href="">Working on That</a>
+- [ Portfolio ]()
 
-<!-- Habilidades: Linguagens de Programação e Outros -->
-## Habilidades:
-<h3>Principais:</h3>
-<div style="flex-basis: 38%;">
-  <img align="center" alt="Python" height="44" width="54" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
-  <img align="center" alt="Java" height="44" width="54" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
-  <img align="center" alt="Html" height="44" width="54" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
-  <img align="center" alt="Css" height="44" width="54" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
-</div>
+<!-- Tech Stack -->
+## Tech Stack:
 
-<!-- Contatos -->
-## Contate-me:
-<div align="left"> 
-  <a href="https://www.linkedin.com/in/gabrielcmascarenhas" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-456e56?style=for-the-badge&logo=LinkedIn&logoColor=ebcfb2&labelColor=222f36&color=e07a5f&v=2" alt="LinkedIn">
-  </a>
-  <a href="mailto:contatogabrielcmascarenhas@gmail.com"><img src="https://img.shields.io/badge/Gmail-456e56?style=for-the-badge&logo=Gmail&logoColor=ebcfb2&labelColor=222f36&color=e07a5f"alt="Gmail Profile"></a>
-  <a href="www.linkedin.com/in/gabrielcmascarenhas"><img src="https://img.shields.io/badge/Linkedin-456e56?style=for-the-badge&logo=LinkedIn&logoColor=ebcfb2&labelColor=222f36&color=e07a5f" alt="LinkedIn Profile"></a>
-  <a href="https://instagram.com/gmascarenhas8"><img src="https://img.shields.io/badge/Instagram-456e56?style=for-the-badge&logo=Instagram&logoColor=ebcfb2&labelColor=222f36&color=e07a5f" alt="Instagram Profile"></a>
-  <a href="https://www.linkedin.com/in/gabrielcmascarenhas" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-456e56?style=for-the-badge&logo=linkedin&logoColor=ebcfb2&labelColor=222f36&color=e07a5f" alt="LinkedIn Profile"></a>
-</div>
+**Desenvolvimento de Software:**
+
+![HTML](https://img.shields.io/badge/HTML-222f36?style=for-the-badge&labelColor=456e56)
+![CSS](https://img.shields.io/badge/CSS-222f36?style=for-the-badge&labelColor=456e56)
+![Java](https://img.shields.io/badge/Java-222f36?style=for-the-badge&labelColor=456e56)
+![Python](https://img.shields.io/badge/Python-222f36?style=for-the-badge&labelColor=14964e)
+
+**Cybersegurança & Infra:**
+
+**Banco de Dados:**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-222f36?style=for-the-badge&labelColor=456e56) 
+
+<br>
+
+> **Contato:** [Email](mailto:contatogabrielcmascarenhas@gmail.com) | [LinkedIn](https://www.linkedin.com/in/gabrielcmascarenhas) | [Instagram](https://instagram.com/gmascarenhas8)
