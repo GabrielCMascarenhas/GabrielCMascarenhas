@@ -12,8 +12,6 @@
 
 ![HTML](https://img.shields.io/badge/HTML-222f36?style=for-the-badge&labelColor=456e56)
 ![CSS](https://img.shields.io/badge/CSS-222f36?style=for-the-badge&labelColor=456e56)
-![Java](https://img.shields.io/badge/Java-222f36?style=for-the-badge&labelColor=456e56)
-![Python](https://img.shields.io/badge/Python-222f36?style=for-the-badge&labelColor=14964e)
 
 <br>
 
@@ -23,7 +21,6 @@
 
 **Banco de Dados:**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-222f36?style=for-the-badge&labelColor=456e56) 
 
 <br>
 
